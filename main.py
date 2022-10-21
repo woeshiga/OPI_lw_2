@@ -1,4 +1,8 @@
-from random import randint
+"""
+developer: woeshiga
+"""
+
+rom random import randint
 
 name = input("Enter your name: ")
 
